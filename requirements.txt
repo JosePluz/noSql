@@ -1,0 +1,5 @@
+# Requisitos para el proyecto de dashboard de anime 
+streamlit>=1.28
+pandas>=2.0
+plotly>=6.0
+numpy>=1.24

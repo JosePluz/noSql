@@ -1,0 +1,22 @@
+﻿# Python virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.DS_Store
+.streamlit/
+
+# Data files (too large for GitHub)
+data/
+*.csv
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
